@@ -228,4 +228,4 @@ netKar is a full free version allowing access to all features and updates. There
 Ready to feel the rush of racing? **Download netKar now and take your racing experience to the next level!**
 
 ---
-**Last updated:** 2026-10-08 16:13:23 UTC
+**Last updated:** 2026-10-08 21:52:58 UTC
